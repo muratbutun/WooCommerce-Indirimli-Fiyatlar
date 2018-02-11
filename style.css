@@ -1,0 +1,21 @@
+.satis-fiyati, .suanki-fiyat, .kazanciniz {
+width: 50%;
+padding: 0.5em 1em;
+text-align: center;
+}
+ 
+.satis-fiyati {
+background: #636363;
+color: white;
+}
+ 
+.suanki-fiyat {
+background: #acacac;
+color: black;
+}
+ 
+.kazanciniz {
+background: #eee;
+color: red;
+font-size: 120%;
+}
